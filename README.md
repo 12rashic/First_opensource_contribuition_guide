@@ -1,3 +1,4 @@
-![Screenshot](first.png)
+
+![Screenshot](first.svg)
 
 
