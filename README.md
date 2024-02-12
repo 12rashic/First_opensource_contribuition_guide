@@ -1,3 +1,3 @@
-![Image alt text](first.svg).
+![Screenshot](first.png)
 
 
