@@ -2,7 +2,7 @@
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
-        @keyframes hi  {
+        @keyframes OSC {
             0% { transform: rotate( 0.0deg) }
            10% { transform: rotate(14.0deg) }
            20% { transform: rotate(-8.0deg) }
@@ -46,8 +46,8 @@
           font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
         }
 
-        .hi {
-          animation: hi 1.5s linear -0.5s infinite;
+        .OSC {
+          animation: OSC 1.5s linear -0.5s infinite;
           display: inline-block;
           transform-origin: 70% 70%;
         }
@@ -66,14 +66,14 @@
             animation: none;
           }
 
-          .hi {
+          .OSC {
             animation: none;
           }
         }
       </style>
 
       <div class="container">
-        <h1>Hi there, my name is Nikola <div class="hi">👋</div></h1>
+        <h1>Let's begin with your first Open Source Contribution <div class="OSC">👋</div></h1>
       </div>
     </div>
   </foreignObject>
