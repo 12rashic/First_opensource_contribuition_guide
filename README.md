@@ -4,19 +4,23 @@
 
 <br> </br> 
 
- <h3> 🙋‍♀️ What are opensource contributions </h3>
+  
+ 🙋‍♀️ What are ![Static Badge](https://img.shields.io/badge/open-source-red) Contributions
+
+ 
    <h3> Software application who have their code-bases available online , for others to contribute by means of improving existing software system , adding new feauture and much more </h3>
    
 <br> </br> 
 
- <h3> 🙋‍♀️ What are benifits of contributing to open source projects </h3>
+  🙋‍♀️ What are benifits of  ![Static Badge](https://img.shields.io/badge/Contributing%20-%20green) to ![Static Badge](https://img.shields.io/badge/open-source-red)  projects 
  
     🟡 Hands-on / practical exposure to system 
     🟡 Improved / changed perspective working with different tech-stack in integrated way 
     🟡 Learn new skills & technologies 
     🟡 Improved communication & accountability 
 
-<h3> 🙋‍♀️ How to select first repository for contribution  </h3>
+ 🙋‍♀️ How to select first ![Static Badge](https://img.shields.io/badge/repository%20-%20pink)
+for contribution  
 
     🟢 First step is to find the technology you are good in / want to improve your skills & find repositories related to it .
     🟢 Find issues that are  having "open" , "goodfirstissue" label 
@@ -49,7 +53,7 @@
 
   ![Screenshot](git2.png)
 
-    <br> </br> 
+   <br> </br> 
 
     🔴 Check the status of changes made to the repository folder :
 
@@ -79,8 +83,8 @@
 
     🔴Git push to master branch to merge changes in main branch  :
 
-         🔺 Git status
-         🔺 Git commit -m "message" .
+         🔺 Git push origin master
+         
 
    ![Screenshot](git6.png)
 
@@ -92,7 +96,7 @@ in main (master) branch .
 
 <br> </br> 
 
-<h3> And vola !!  🎊
+<h3> And voila  !!  🎊
  Congratulations , yuo have made your first PR !</h3>
 
  <H3> If you have been able to follow the guide and it helped you , don't forget to share it , let's help building ths community 🎊
