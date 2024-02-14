@@ -18,6 +18,7 @@
     🟡 Improved / changed perspective working with different tech-stack in integrated way 
     🟡 Learn new skills & technologies 
     🟡 Improved communication & accountability 
+    
 
  🙋‍♀️ How to select first ![Static Badge](https://img.shields.io/badge/repository%20-%20pink)
 for contribution  
